@@ -3,3 +3,4 @@
 3.window.onload不能同时编写多个，如果有多个window.onload方法，只会执行一个
 4.$(document).ready()可以同时编写多个，并且都可以得到执行
 
+2
